@@ -1,0 +1,2 @@
+# multiflang
+Module Magento2
